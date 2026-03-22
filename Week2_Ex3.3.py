@@ -1,0 +1,41 @@
+#2 hàng 2 cột
+print ('+', '+', '+', sep = ' - - - - ')
+print ('|', '|', '|', sep = '         ')
+print ('|', '|', '|', sep = '         ')
+print ('|', '|', '|', sep = '         ')
+print ('|', '|', '|', sep = '         ')
+print ('+', '+', '+', sep = ' - - - - ')
+print ('|', '|', '|', sep = '         ')
+print ('|', '|', '|', sep = '         ')
+print ('|', '|', '|', sep = '         ')
+print ('|', '|', '|', sep = '         ')
+print ('+', '+', '+', sep = ' - - - - ')
+
+#4 hàng 4 cột
+def dong_ngang():
+    print('+', '+', '+', '+', '+', sep=' - - - - ')
+
+def dong_doc():
+    print('|', '|', '|', '|', '|', sep='         ')
+
+dong_ngang()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_ngang()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_ngang()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_ngang()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_doc()
+dong_ngang()
